@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_1_GameFlow\bin\Debug\net8.0\Project_1_GameFlow.exe
+C:\Users\Administrator\Desktop\Project_1_GameFlow\bin\Debug\net8.0\Project_1_GameFlow.deps.json
+C:\Users\Administrator\Desktop\Project_1_GameFlow\bin\Debug\net8.0\Project_1_GameFlow.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_1_GameFlow\bin\Debug\net8.0\Project_1_GameFlow.dll
+C:\Users\Administrator\Desktop\Project_1_GameFlow\bin\Debug\net8.0\Project_1_GameFlow.pdb
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.dll
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\refint\Project_1_GameFlow.dll
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.pdb
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\Project_1_GameFlow.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_1_GameFlow\obj\Debug\net8.0\ref\Project_1_GameFlow.dll
