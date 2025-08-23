@@ -58,7 +58,7 @@
             new Item("과자", "식료품", 500),
             new Item("음료수", "음료", 800),
             new Item("사탕", "식료품", 300),
-            new Item("장난감", "잡화", 1500)
+            new HighItem("장난감", "잡화", 1500, 2)
         };
 
             // 아이템의 실제 구매 가격은 게임 시작 시 한 번 결정
@@ -123,7 +123,7 @@
                 Console.ReadKey();
             }
         }
-
+        
         private static void UpdateMarketPrices()
         {
             foreach (var item in availableItems)

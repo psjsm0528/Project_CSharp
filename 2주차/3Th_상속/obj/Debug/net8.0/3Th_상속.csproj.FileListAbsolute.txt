@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\bin\Debug\net8.0\3Th_상속.exe
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\bin\Debug\net8.0\3Th_상속.deps.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\bin\Debug\net8.0\3Th_상속.runtimeconfig.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\bin\Debug\net8.0\3Th_상속.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\bin\Debug\net8.0\3Th_상속.pdb
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.sourcelink.json
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\refint\3Th_상속.dll
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.pdb
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\3Th_상속.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Project_CSharp\2주차\3Th_상속\obj\Debug\net8.0\ref\3Th_상속.dll

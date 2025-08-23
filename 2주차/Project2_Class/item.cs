@@ -19,5 +19,18 @@ namespace Project2_Class
             BuyPrice = buyPrice;
         }
     }
+
+    class HighItem : Item
+    {
+        public int multiplier;
+
+        public HighItem(string name, string type, int buyPrice, int multiplier) : base(name, type, buyPrice)
+        {
+            this.multiplier = multiplier;
+
+            buyPrice *= multiplier;
+        }
+    }
+
 }
         
